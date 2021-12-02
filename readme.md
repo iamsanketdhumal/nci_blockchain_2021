@@ -62,5 +62,11 @@ then run the following commands:
 '''git commit -m "<your commit messages>"'''
 '''git push origin main'''
 
+## Executing a .JS file ##
+
+To execute a javascript file using node.js run the following command:
+
+'''node <file name>'''
+
 
 
