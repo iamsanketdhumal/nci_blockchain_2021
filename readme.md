@@ -16,7 +16,7 @@ This is the readme for this project. It will include all the useful links and co
 
 ## Install NodeJS ##
 
-install following the instructions at the following web page:
+Install following the instructions at the following web page:
 
 '''https://nodejs.org/en/download/'''
 
@@ -33,3 +33,7 @@ Inside that College folder, run:
 From the terminal in Visual Studio Code ( or from the command line - as long as you are in the folder), run the following command:
 
 '''git pull origin main'''
+
+## for the moment ##
+
+you need git, nodejs and vs code installed.
