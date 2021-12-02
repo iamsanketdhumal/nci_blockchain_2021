@@ -44,6 +44,10 @@ How to tell you have git installed:
 
 '''git version'''
 
+How to tell you have node installed:
+
+'''node -v'''
+
 ## Using your own repo ##
 
 First, create a repo in github.
